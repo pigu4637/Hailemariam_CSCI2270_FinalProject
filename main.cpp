@@ -29,7 +29,7 @@ int main()
             }
             else{
                 quit = true;
-                std::cout << "Congratulations! You have finished the game. We estimated your IQ to be: " << q.randomInt(100,250)<<"\n";
+                std::cout << "Congratulations! You have finished the game. We estimate your IQ to be: " << q.randomInt(100,250)<<"\n";
             }
         }
         if(q.missCount()){
