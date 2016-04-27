@@ -5,17 +5,17 @@ Nothing fancy here, just a basic Q&A program. This program was implemented using
 ##How to run
 To run the program, simply compile it using a GNU compiler and it should work but the program requires c++11 based compiler. I worked on codeblocks IDE but it should compile independent of the IDE.
 
-##Dependencies
+###Dependencies
 None
 
-##System requirements
+###System requirements
 I don't think there are any system requirements except for the compiler.
 
-##Group Members
-Henok Hailemariam
+###Group Members
+None
 
-##Contributors
-Henok Hailemariam
+###Contributors
+None
 
-##Bugs/Open issues
+###Bugs/Open issues
 Some questions are shown again to the user..currently working to fix it.
