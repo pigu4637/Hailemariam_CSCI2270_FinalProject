@@ -8,8 +8,9 @@ can do that by following the below format:
     <your question> ? <4 multple answers separated by comma>
 */
 int main()
-{
-    QAnswer q(30);
+{   
+    //the constructor takes the max number of questions
+    QAnswer q(10);
     q.readFile("data.txt");
     q.menu();
 
