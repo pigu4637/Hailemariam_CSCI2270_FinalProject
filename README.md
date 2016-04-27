@@ -1,4 +1,4 @@
-# Hailemariam_CSCI2270_FinalProject
+#QAnswer -- simple quiz.
 
 Nothing fancy here, just a basic Q&A program. This program was implemented using hash tables to store the questions and the answers. When you start the program you will be presented with certain amount of multiple choice questions to answer and finish the game. if you miss 3 questions, you are out. I'm the only member on this project.
 
