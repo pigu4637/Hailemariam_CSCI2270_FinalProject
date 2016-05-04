@@ -1,8 +1,1 @@
-You did not upload the question file (data.txt) to GitHub! It was difficult evaluating your project without the basis of it.
-Knowing that, I could not contribute much to your project.
-I cleaned up some of your functions, as some were redundant or just unused (removed timeleft and getscore, combined the different game over options (win and lost) ect.
-I added an option to play the game again (mostly untested due to the lack of the data file), which resets everything but the open file as it would be redundant.
-I also added a difficulty setting where the player can choose between not being able to get a single answer wrong to being able to get two answers wrong.
-For simplicity I used iostream and namespace std, and instead of causing the program to crash, the program will tell you if you are missing the question file.
-I did not dare trying to fix the problem you are having of having the same questions show up multiple times, as I would probably break something and not be able to test
-it due to the lack of the question file.
+please ignore this
