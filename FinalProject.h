@@ -37,21 +37,19 @@ class QAnswer{
         void loadQuestion(int);
         void answerQuestion(std::string);
         bool missCount();
-        void gameOver();
-        void menu();
-        void readFile(std::string);
+        void gameOver(bool);
+        void menu(int);
+        bool readFile(std::string);
         std::string trim(std::string &);
-        int getScore();
-        int getTimeLeft();
         int randomInt(int,int);
         int questionLimit;
         bool lastQuestion();
         std::vector<std::string> split(const char *str, char c);
+        int difficulty;
 
     private:
         std::string currentAnswer;
         int score;
-        int timeLeft;
         int missCountx;
         Question *hTable[50];
         int tableSize;
